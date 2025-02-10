@@ -67,7 +67,6 @@
             alt="typescript" width="40" height="40" /> </a> </p>
 
 
-
 <p> <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shayamahmad&show_icons=true&locale=en&layout=compact"
         alt="Top Languages" /> </p>
